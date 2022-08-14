@@ -37,18 +37,18 @@ a {
   font-size: 25px;
   line-height: 40px;
   color: rgb(41, 39, 38);
-  margin-left: 10px;
+  margin-left: 3px;
 }
 .wzjs {
   float: left;
   line-height: 40px;
   font-size: small;
   color: rgb(200, 196, 190);
-  margin-left: 20px;
+  margin-left: 5px;
 }
 .st {
   width: 100%;
-  height: 150px;
+  height: 200px;
   background-color: rgb(240, 234, 234);
 }
 div ul {
@@ -56,7 +56,7 @@ div ul {
 }
 div ul li {
   margin: 10px;
-  width: 23%;
+  width: 30%;
   height: 30px;
   background-color: white;
   border-radius: 10px;
@@ -106,4 +106,8 @@ div ul li a div:hover {
 .header div a p {
   font-size: 10px;
   margin-top: 5px;
+}
+#jhy {
+  float: right;
+  
 }
