@@ -103,3 +103,14 @@ div ul li a div:hover {
 div ul li :hover {
   transform: translate(0px, -3px);
 }
+.chong {
+  transform: translate(70px, -655px);
+  animation: chong 2.2s ease 0s infinite alternate backwards;
+}
+@keyframes chong {
+  0% {
+  }
+  100% {
+    transform: translate(200px, 0);
+  }
+}
