@@ -105,7 +105,7 @@ div ul li :hover {
 }
 .chong {
   transform: translate(70px, -655px);
-  animation: chong 2.2s ease 0s infinite alternate backwards;
+  animation: chong 3s ease 0.5s infinite alternate backwards;
 }
 @keyframes chong {
   0% {
